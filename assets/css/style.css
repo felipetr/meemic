@@ -1,0 +1,11 @@
+body,
+html {
+
+    height: 100%;
+    color: #fff;
+	 padding: 0 !important;
+    margin: 0 !important;
+	background: rgb(16, 5, 40, 1);
+	font-family: 'Lato', sans-serif;
+    background: linear-gradient(331deg, rgba(170, 16, 170, 1) 0%, rgba(19, 45, 97, 1) 50%, rgba(16, 5, 40, 1) 100%);
+}
