@@ -10,23 +10,59 @@
     <link rel="stylesheet" href="assets/lib/bootstrap/css/bootstrap-reboot.min.css">
     <link rel="stylesheet" href="assets/lib/bootstrap/css/bootstrap.min.css">
 
- <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/style.css">
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+
+
+    <link rel="stylesheet" href="assets/lib/fontawesome/css/all.css">
+    <link rel="stylesheet" href="assets/css/style.css?v=2">
     
 </head>
 
 <body>
     <div id="app">
-        
+	<section id="home" class="text-center w-100 d-flex align-items-center displayedsection">
+	<div class="w-100">
+        <h1 id="logo">Meemic</h1>
+		<h2 id="subtitle">Um jogo de mímica</h2>
+		<div class="menuhome d-inline-block px-1">
+		<button title="Novo Jogo" class="btn btn-goto btn-light w-100 btn-block btn-start btn-lg" data-goto="config">Novo Jogo</button>
+		<button title="Regras" data-toggle="modal" data-target="#RulesModal" class="btn btn-light w-100 btn-block btn-border-start  mt-3 btn-lg">Regras</button>
+		<div style="display:none;">
+		<button class="btn btn-light w-100 btn-block btn-start btn-lg mt-3">Continuar</button> </div>
+	</div>
+	</div>
+    <div class="modal fade" id="RulesModal" tabindex="-1" aria-labelledby="RulesModal" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-xl">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title">Regras</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+              Dois times jogam
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-light w-100 btn-block btn-start " data-dismiss="modal">Ok</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+	</section>
+	<section id="configs" class="text-center hidedsection w-100 d-flex align-items-center d-none">
+	</section>
+
     </div>
 
 
 
-    <script src="assets/lib/vue.min.js"></script>
+    <script src="assets/lib/jquery-3.6.0.min.js"></script>
     <script src="assets/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/vuescripts.js"></script>
+    <script src="assets/js/scripts.js"></script>
 
 </body>
 

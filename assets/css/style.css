@@ -6,6 +6,74 @@ html {
 	 padding: 0 !important;
     margin: 0 !important;
 	background: rgb(16, 5, 40, 1);
-	font-family: 'Lato', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
     background: linear-gradient(331deg, rgba(170, 16, 170, 1) 0%, rgba(19, 45, 97, 1) 50%, rgba(16, 5, 40, 1) 100%);
 }
+.modal-content, .boxcontencolor
+{
+	background: rgba(6,8,24,.9);
+
+}
+.close {
+    color: #fff !important;
+    text-shadow: none !important;
+}
+
+#app,
+.displayedsection
+{
+	 height: 100%;
+}
+.hidedsection
+{
+	display: none !important;
+}
+#logo {
+  color: #FFF;
+  font-size: 100px;
+}
+
+
+#subtitle
+{
+	position: relative;
+	top: -20px;
+ }
+ 
+ .btn-start
+ {
+	 padding-left: 40px;
+	 padding-right: 40px;
+	 color: #3d2575 !important;
+	 border-radius: 24px;
+ }
+ .menuhome
+ {
+	 width: 400px;
+	 max-width: 100%;
+ }
+ 
+ 
+ 
+  .btn-border-start
+ {
+	 
+	 background: transparent !important;
+	 color: #fff !important;
+	 
+ }
+.btn
+{
+	border-radius: 18px;
+}
+ .btn-lg
+
+ {
+	border-radius: 24px;
+ }
+ .btn-border-start:hover
+ {
+	  background: #fff !important;
+	  color: #3d2575 !important;
+ }
+ 
