@@ -1,3 +1,27 @@
+@media screen and (orientation:portrait) { body
+
+	#app
+{
+	display: none !important;
+}
+
+#turnscreen
+{
+	display: flex;
+}
+}
+.turn
+
+{
+	width: 80%;
+}
+@media screen and (orientation:landscape)
+{
+#turnscreen
+{
+	display: none !important;
+}
+}
 body,
 html {
 
