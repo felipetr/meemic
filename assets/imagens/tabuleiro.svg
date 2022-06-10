@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="tabuleiro.svg"
-   width="100%"
-   height="100%"
-   viewBox="0 0 257.52734 136.63028"
+   id="svg2977"
    version="1.1"
-   id="svg2977">
+   viewBox="0 0 257.52734 136.63028"
+   height="100%"
+   width="100%"
+   sodipodi:docname="tabuleiro.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <metadata
      id="metadata252">
     <rdf:RDF>
@@ -28,1708 +28,1713 @@
   <defs
      id="defs250">
     <inkscape:perspective
-       id="perspective1079"
-       inkscape:persp3d-origin="128.76367 : 45.543427 : 1"
-       inkscape:vp_z="257.52734 : 68.31514 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
+       sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 68.31514 : 1"
-       sodipodi:type="inkscape:persp3d" />
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="257.52734 : 68.31514 : 1"
+       inkscape:persp3d-origin="128.76367 : 45.543427 : 1"
+       id="perspective1079" />
   </defs>
   <sodipodi:namedview
-     inkscape:current-layer="l6"
-     inkscape:window-maximized="1"
-     inkscape:window-y="305"
-     inkscape:window-x="-8"
-     inkscape:cy="66.305096"
-     inkscape:cx="68.610322"
-     inkscape:zoom="2.8284271"
-     showguides="true"
-     showgrid="false"
-     id="namedview248"
-     inkscape:window-height="697"
-     inkscape:window-width="1366"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     id="namedview248"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="16"
+     inkscape:cx="205.72868"
+     inkscape:cy="88.427642"
+     inkscape:window-x="-8"
+     inkscape:window-y="305"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <g
-     data-isl="Layer 1"
-     data-isgme="layer"
+     transform="translate(154.1319,-56.350368)"
      id="layer1"
-     transform="translate(154.1319,-56.350368)">
+     data-isgme="layer"
+     data-isl="Layer 1">
     <g
-       style="stroke-width:0.598586"
-       transform="matrix(1.6706048,0,0,1.6706048,-96.198321,-138.22327)"
+       data-isl="#starttile"
        id="starttile"
-       data-isl="#starttile">
+       transform="matrix(1.6706048,0,0,1.6706048,-96.198321,-138.22327)"
+       style="stroke-width:0.598586">
+      <path
+         id="rect98-48"
+         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.0598586;paint-order:markers fill stroke"
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
+      <g
+         transform="translate(-2.4893493e-4,1.0686667e-4)"
+         id="g251-9"
+         style="stroke-width:0.598586">
+        <path
+           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           style="fill:#e6e6e6;stroke:none;stroke-width:0.226237;paint-order:markers fill stroke"
+           id="rect98-5"
+           transform="scale(0.26458333)" />
+        <path
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
+           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.0598586;paint-order:markers fill stroke"
+           id="rect98-4-4" />
+      </g>
+    </g>
+    <g
+       data-isl="#o1"
+       id="o1"
+       transform="translate(-99.059183,-38.055232)">
       <path
          d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
-         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.0598586;paint-order:markers fill stroke"
-         id="rect98-48" />
+         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+         id="rect98-48-0" />
       <g
-         style="stroke-width:0.598586"
-         id="g251-9"
+         id="g251-9-6"
          transform="translate(-2.4893493e-4,1.0686667e-4)">
         <path
-           transform="scale(0.26458333)"
-           id="rect98-5"
-           style="fill:#e6e6e6;stroke:none;stroke-width:0.226237;paint-order:markers fill stroke"
-           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z" />
+           id="rect98-5-2"
+           style="fill:#ffc107;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           transform="scale(0.26458333)" />
         <path
-           id="rect98-4-4"
-           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.0598586;paint-order:markers fill stroke"
+           id="rect98-4-4-0"
+           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
            d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
       </g>
     </g>
     <g
-       transform="translate(-99.059183,-38.055232)"
-       id="o1"
-       data-isl="#o1">
+       data-isl="#a1"
+       id="a1"
+       transform="translate(-89.97035,-43.302396)">
       <path
-         id="rect98-48-0"
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
+         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+         id="rect98-48-3" />
+      <g
+         id="g251-9-1"
+         transform="translate(-2.4893493e-4,1.0686667e-4)">
+        <path
+           id="rect98-5-1"
+           style="fill:#0d6efd;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           transform="scale(0.26458333)" />
+        <path
+           id="rect98-4-4-6"
+           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
+      </g>
+    </g>
+    <g
+       data-isl="#l1"
+       id="l1">
+      <path
+         id="rect98-48-0-8"
+         style="opacity:0.2;fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+         d="m -107.14299,104.03737 -8.4031,4.85138 v 0.52917 l 8.4031,4.85138 8.402593,-4.85138 v -0.52917 z" />
+      <g
+         transform="translate(-80.868133,-48.557599)"
+         id="g251-9-6-1"
+         style="fill:#343a40;fill-opacity:1">
+        <path
+           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           style="fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           id="rect98-5-2-5"
+           transform="scale(0.26458333)" />
+        <path
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
+           style="opacity:0.3;fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+           id="rect98-4-4-0-8" />
+      </g>
+    </g>
+    <g
+       data-isl="#c1"
+       transform="translate(-71.753333,-53.820272)"
+       id="c1">
+      <path
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
+         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+         id="path416" />
+      <g
+         id="g422"
+         transform="translate(-2.4893493e-4,1.0686667e-4)">
+        <path
+           id="path418"
+           style="fill:#dc3545;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           transform="scale(0.26458333)" />
+        <path
+           id="path420"
+           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
+      </g>
+    </g>
+    <g
+       data-isl="#p1"
+       transform="translate(-62.650866,-59.075583)"
+       id="p1">
+      <path
+         id="path426"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
          d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
       <g
          transform="translate(-2.4893493e-4,1.0686667e-4)"
-         id="g251-9-6">
+         id="g432">
+        <path
+           transform="scale(0.26458333)"
+           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           style="fill:#6f24a8;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           id="path428" />
+        <path
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
+           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+           id="path430" />
+      </g>
+    </g>
+    <g
+       data-isl="#d1"
+       transform="translate(-53.562033,-64.322747)"
+       id="d1">
+      <path
+         id="path436"
+         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
+      <g
+         transform="translate(-2.4893493e-4,1.0686667e-4)"
+         id="g442">
+        <path
+           transform="scale(0.26458333)"
+           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           style="fill:#198754;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           id="path438" />
+        <path
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
+           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+           id="path440" />
+      </g>
+    </g>
+    <g
+       style="fill:#343a40;fill-opacity:1"
+       id="g454"
+       transform="translate(-44.459567,-69.578057)">
+      <g
+         style="fill:#343a40;fill-opacity:1"
+         id="g452"
+         transform="translate(-2.4893493e-4,1.0686667e-4)" />
+    </g>
+    <g
+       data-isl="#o2"
+       transform="translate(-44.414895,-69.604002)"
+       id="o2">
+      <path
+         id="rect98-48-0-9"
+         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
+      <g
+         transform="translate(-2.4893493e-4,1.0686667e-4)"
+         id="g251-9-6-2">
         <path
            transform="scale(0.26458333)"
            d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
            style="fill:#ffc107;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           id="rect98-5-2" />
+           id="rect98-5-2-54" />
         <path
            d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           id="rect98-4-4-0" />
+           id="rect98-4-4-0-9" />
       </g>
     </g>
     <g
-       transform="translate(-89.97035,-43.302396)"
-       id="a1"
-       data-isl="#a1">
+       data-isl="#a2"
+       transform="translate(-35.326061,-74.851165)"
+       id="a2">
       <path
-         id="rect98-48-3"
+         id="rect98-48-3-3"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
          d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
       <g
          transform="translate(-2.4893493e-4,1.0686667e-4)"
-         id="g251-9-1">
+         id="g251-9-1-5">
         <path
            transform="scale(0.26458333)"
            d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
            style="fill:#0d6efd;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           id="rect98-5-1" />
+           id="rect98-5-1-9" />
         <path
            d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           id="rect98-4-4-6" />
+           id="rect98-4-4-6-0" />
       </g>
     </g>
     <g
-       id="l1"
-       data-isl="#l1">
+       data-isl="#l2"
+       style="fill:#343a40;fill-opacity:1"
+       id="l2"
+       transform="translate(-26.223595,-80.106475)">
       <path
-         d="m -107.14299,104.03737 -8.4031,4.85138 v 0.52917 l 8.4031,4.85138 8.402593,-4.85138 v -0.52917 z"
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
          style="opacity:0.2;fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         id="rect98-48-0-8" />
+         id="rect98-48-0-8-9" />
       <g
          style="fill:#343a40;fill-opacity:1"
-         id="g251-9-6-1"
-         transform="translate(-80.868133,-48.557599)">
+         id="g251-9-6-1-5"
+         transform="translate(-2.4893493e-4,1.0686667e-4)">
         <path
-           transform="scale(0.26458333)"
-           id="rect98-5-2-5"
+           id="rect98-5-2-5-2"
            style="fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z" />
+           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           transform="scale(0.26458333)" />
         <path
-           id="rect98-4-4-0-8"
+           id="rect98-4-4-0-8-5"
            style="opacity:0.3;fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
            d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
       </g>
     </g>
     <g
-       id="c1"
-       transform="translate(-71.753333,-53.820272)"
-       data-isl="#c1">
+       data-isl="#c2"
+       transform="translate(-17.109044,-85.369041)"
+       id="c2">
       <path
-         id="path416"
+         id="path416-3"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
          d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
       <g
          transform="translate(-2.4893493e-4,1.0686667e-4)"
-         id="g422">
+         id="g422-38">
         <path
            transform="scale(0.26458333)"
            d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
            style="fill:#dc3545;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           id="path418" />
+           id="path418-3" />
         <path
            d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           id="path420" />
+           id="path420-0" />
       </g>
     </g>
     <g
-       id="p1"
-       transform="translate(-62.650866,-59.075583)"
-       data-isl="#p1">
+       data-isl="#p2"
+       id="p2"
+       transform="translate(-8.0065775,-90.624352)">
       <path
          d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         id="path426" />
+         id="path426-5" />
       <g
-         id="g432"
+         id="g432-1"
          transform="translate(-2.4893493e-4,1.0686667e-4)">
         <path
-           id="path428"
+           id="path428-9"
            style="fill:#6f24a8;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
            d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
            transform="scale(0.26458333)" />
         <path
-           id="path430"
+           id="path430-3"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
            d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
       </g>
     </g>
     <g
-       id="d1"
-       transform="translate(-53.562033,-64.322747)"
-       data-isl="#d1">
+       data-isl="#d2"
+       id="d2"
+       transform="translate(1.082256,-95.871516)">
       <path
          d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         id="path436" />
+         id="path436-8" />
       <g
-         id="g442"
+         id="g442-5"
          transform="translate(-2.4893493e-4,1.0686667e-4)">
         <path
-           id="path438"
+           id="path438-3"
            style="fill:#198754;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
            d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
            transform="scale(0.26458333)" />
         <path
-           id="path440"
+           id="path440-1"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
            d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
       </g>
     </g>
     <g
-       transform="translate(-44.459567,-69.578057)"
-       id="g454"
+       transform="translate(10.184722,-101.12683)"
+       id="g454-4"
        style="fill:#343a40;fill-opacity:1">
       <g
          transform="translate(-2.4893493e-4,1.0686667e-4)"
-         id="g452"
+         id="g452-8"
          style="fill:#343a40;fill-opacity:1" />
     </g>
     <g
-       id="o2"
-       transform="translate(-44.414895,-69.604002)"
-       data-isl="#o2">
-      <path
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
-         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         id="rect98-48-0-9" />
-      <g
-         id="g251-9-6-2"
-         transform="translate(-2.4893493e-4,1.0686667e-4)">
-        <path
-           id="rect98-5-2-54"
-           style="fill:#ffc107;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           transform="scale(0.26458333)" />
-        <path
-           id="rect98-4-4-0-9"
-           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
-      </g>
-    </g>
-    <g
-       id="a2"
-       transform="translate(-35.326061,-74.851165)"
-       data-isl="#a2">
-      <path
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
-         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         id="rect98-48-3-3" />
-      <g
-         id="g251-9-1-5"
-         transform="translate(-2.4893493e-4,1.0686667e-4)">
-        <path
-           id="rect98-5-1-9"
-           style="fill:#0d6efd;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           transform="scale(0.26458333)" />
-        <path
-           id="rect98-4-4-6-0"
-           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
-      </g>
-    </g>
-    <g
-       transform="translate(-26.223595,-80.106475)"
-       id="l2"
-       style="fill:#343a40;fill-opacity:1"
-       data-isl="#l2">
-      <path
-         id="rect98-48-0-8-9"
-         style="opacity:0.2;fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
-      <g
-         transform="translate(-2.4893493e-4,1.0686667e-4)"
-         id="g251-9-6-1-5"
-         style="fill:#343a40;fill-opacity:1">
-        <path
-           transform="scale(0.26458333)"
-           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           style="fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           id="rect98-5-2-5-2" />
-        <path
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
-           style="opacity:0.3;fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           id="rect98-4-4-0-8-5" />
-      </g>
-    </g>
-    <g
-       id="c2"
-       transform="translate(-17.109044,-85.369041)"
-       data-isl="#c2">
-      <path
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
-         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         id="path416-3" />
-      <g
-         id="g422-38"
-         transform="translate(-2.4893493e-4,1.0686667e-4)">
-        <path
-           id="path418-3"
-           style="fill:#dc3545;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           transform="scale(0.26458333)" />
-        <path
-           id="path420-0"
-           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
-      </g>
-    </g>
-    <g
-       transform="translate(-8.0065775,-90.624352)"
-       id="p2"
-       data-isl="#p2">
-      <path
-         id="path426-5"
-         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
-      <g
-         transform="translate(-2.4893493e-4,1.0686667e-4)"
-         id="g432-1">
-        <path
-           transform="scale(0.26458333)"
-           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           style="fill:#6f24a8;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           id="path428-9" />
-        <path
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
-           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           id="path430-3" />
-      </g>
-    </g>
-    <g
-       transform="translate(1.082256,-95.871516)"
-       id="d2"
-       data-isl="#d2">
-      <path
-         id="path436-8"
-         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
-      <g
-         transform="translate(-2.4893493e-4,1.0686667e-4)"
-         id="g442-5">
-        <path
-           transform="scale(0.26458333)"
-           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           style="fill:#198754;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           id="path438-3" />
-        <path
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
-           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           id="path440-1" />
-      </g>
-    </g>
-    <g
-       style="fill:#343a40;fill-opacity:1"
-       id="g454-4"
-       transform="translate(10.184722,-101.12683)">
-      <g
-         style="fill:#343a40;fill-opacity:1"
-         id="g452-8"
-         transform="translate(-2.4893493e-4,1.0686667e-4)" />
-    </g>
-    <g
-       id="p8"
+       data-isl="#p8"
        transform="translate(-99.092228,-27.583369)"
-       data-isl="#p8">
+       id="p8">
       <path
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
+         id="rect98-48-0-9-4"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         id="rect98-48-0-9-4" />
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
       <g
-         id="g251-9-6-2-7"
-         transform="translate(-2.4893493e-4,1.0686667e-4)">
+         transform="translate(-2.4893493e-4,1.0686667e-4)"
+         id="g251-9-6-2-7">
         <path
-           id="rect98-5-2-54-8"
-           style="fill:#6f24a8;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           transform="scale(0.26458333)"
            d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           transform="scale(0.26458333)" />
+           style="fill:#6f24a8;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           id="rect98-5-2-54-8" />
         <path
-           id="rect98-4-4-0-9-1"
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
+           id="rect98-4-4-0-9-1" />
       </g>
     </g>
     <g
-       transform="translate(-90.033141,-22.333421)"
+       data-isl="#c8"
        id="c8"
-       data-isl="#c8">
+       transform="translate(-90.033141,-22.333421)">
       <path
-         id="rect98-48-0-9-4-9"
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
+         id="rect98-48-0-9-4-9" />
       <g
-         transform="translate(-2.4893493e-4,1.0686667e-4)"
-         id="g251-9-6-2-7-9">
+         id="g251-9-6-2-7-9"
+         transform="translate(-2.4893493e-4,1.0686667e-4)">
         <path
-           transform="scale(0.26458333)"
-           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           id="rect98-5-2-54-8-8"
            style="fill:#dc3545;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           id="rect98-5-2-54-8-8" />
+           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           transform="scale(0.26458333)" />
         <path
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
+           id="rect98-4-4-0-9-1-3"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           id="rect98-4-4-0-9-1-3" />
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
       </g>
     </g>
     <g
-       transform="translate(-80.918891,-17.071306)"
+       data-isl="#l8"
        id="l8"
-       data-isl="#l8">
+       transform="translate(-80.918891,-17.071306)">
       <path
-         id="rect98-48-0-9-4-7"
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
+         id="rect98-48-0-9-4-7" />
       <g
-         transform="translate(-2.4893493e-4,1.0686667e-4)"
-         id="g251-9-6-2-7-1">
+         id="g251-9-6-2-7-1"
+         transform="translate(-2.4893493e-4,1.0686667e-4)">
         <path
-           transform="scale(0.26458333)"
-           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           id="rect98-5-2-54-8-3"
            style="fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           id="rect98-5-2-54-8-3" />
+           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           transform="scale(0.26458333)" />
         <path
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
+           id="rect98-4-4-0-9-1-0"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           id="rect98-4-4-0-9-1-0" />
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
       </g>
     </g>
     <g
-       id="a8"
+       data-isl="#a8"
        transform="translate(-71.859804,-11.821358)"
-       data-isl="#a8">
+       id="a8">
       <path
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
+         id="rect98-48-0-9-4-9-8"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         id="rect98-48-0-9-4-9-8" />
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
       <g
-         id="g251-9-6-2-7-9-0"
-         transform="translate(-2.4893493e-4,1.0686667e-4)">
+         transform="translate(-2.4893493e-4,1.0686667e-4)"
+         id="g251-9-6-2-7-9-0">
         <path
-           id="rect98-5-2-54-8-8-1"
+           transform="scale(0.26458333)"
+           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
            style="fill:#0d6efd;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           transform="scale(0.26458333)" />
+           id="rect98-5-2-54-8-8-1" />
         <path
-           id="rect98-4-4-0-9-1-3-4"
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
+           id="rect98-4-4-0-9-1-3-4" />
       </g>
     </g>
     <g
-       transform="translate(-62.748207,-6.5806024)"
+       data-isl="#o8"
        id="o8"
-       data-isl="#o8">
+       transform="translate(-62.748207,-6.5806024)">
       <path
-         id="rect98-48-0-9-4-1"
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
+         id="rect98-48-0-9-4-1" />
       <g
-         transform="translate(-2.4893493e-4,1.0686667e-4)"
-         id="g251-9-6-2-7-6">
+         id="g251-9-6-2-7-6"
+         transform="translate(-2.4893493e-4,1.0686667e-4)">
         <path
-           transform="scale(0.26458333)"
-           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           id="rect98-5-2-54-8-4"
            style="fill:#ffc107;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           id="rect98-5-2-54-8-4" />
+           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           transform="scale(0.26458333)" />
         <path
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
+           id="rect98-4-4-0-9-1-7"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           id="rect98-4-4-0-9-1-7" />
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
       </g>
     </g>
     <g
-       id="d7"
+       data-isl="#d7"
        transform="translate(-53.68912,-1.330654)"
-       data-isl="#d7">
+       id="d7">
       <path
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
-         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         id="rect98-48-0-9-4-9-7" />
-      <g
-         id="g251-9-6-2-7-9-4"
-         transform="translate(-2.4893493e-4,1.0686667e-4)">
-        <path
-           id="rect98-5-2-54-8-8-8"
-           style="fill:#198754;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           transform="scale(0.26458333)" />
-        <path
-           id="rect98-4-4-0-9-1-3-9"
-           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
-      </g>
-    </g>
-    <g
-       id="p7"
-       transform="translate(-44.57487,3.9314606)"
-       data-isl="#p7">
-      <path
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
-         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         id="rect98-48-0-9-4-7-6" />
-      <g
-         id="g251-9-6-2-7-1-8"
-         transform="translate(-2.4893493e-4,1.0686667e-4)">
-        <path
-           id="rect98-5-2-54-8-3-2"
-           style="fill:#6f24a8;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           transform="scale(0.26458333)" />
-        <path
-           id="rect98-4-4-0-9-1-0-0"
-           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
-      </g>
-    </g>
-    <g
-       transform="translate(-35.515783,9.181409)"
-       id="c7"
-       data-isl="#c7">
-      <path
-         id="rect98-48-0-9-4-9-8-8"
+         id="rect98-48-0-9-4-9-7"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
          d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
       <g
          transform="translate(-2.4893493e-4,1.0686667e-4)"
-         id="g251-9-6-2-7-9-0-1">
+         id="g251-9-6-2-7-9-4">
         <path
            transform="scale(0.26458333)"
            d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           style="fill:#dc3545;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           id="rect98-5-2-54-8-8-1-4" />
+           style="fill:#198754;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           id="rect98-5-2-54-8-8-8" />
         <path
            d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           id="rect98-4-4-0-9-1-3-4-4" />
+           id="rect98-4-4-0-9-1-3-9" />
+      </g>
+    </g>
+    <g
+       data-isl="#p7"
+       transform="translate(-44.57487,3.9314606)"
+       id="p7">
+      <path
+         id="rect98-48-0-9-4-7-6"
+         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
+      <g
+         transform="translate(-2.4893493e-4,1.0686667e-4)"
+         id="g251-9-6-2-7-1-8">
+        <path
+           transform="scale(0.26458333)"
+           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           style="fill:#6f24a8;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           id="rect98-5-2-54-8-3-2" />
+        <path
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
+           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+           id="rect98-4-4-0-9-1-0-0" />
+      </g>
+    </g>
+    <g
+       data-isl="#c7"
+       id="c7"
+       transform="translate(-35.515783,9.181409)">
+      <path
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
+         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+         id="rect98-48-0-9-4-9-8-8" />
+      <g
+         id="g251-9-6-2-7-9-0-1"
+         transform="translate(-2.4893493e-4,1.0686667e-4)">
+        <path
+           id="rect98-5-2-54-8-8-1-4"
+           style="fill:#dc3545;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           transform="scale(0.26458333)" />
+        <path
+           id="rect98-4-4-0-9-1-3-4-4"
+           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
       </g>
     </g>
     <path
-       d="m -52.698331,166.98671 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
+       id="rect98-48-0-9-4-5"
        style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-       id="rect98-48-0-9-4-5" />
+       d="m -52.698331,166.98671 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
     <g
-       id="l7"
+       data-isl="#l7"
        transform="translate(-26.423478,14.391737)"
-       data-isl="#l7">
+       id="l7">
       <path
-         id="rect98-5-2-54-8-9"
-         style="fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+         transform="scale(0.26458333)"
          d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-         transform="scale(0.26458333)" />
+         style="fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+         id="rect98-5-2-54-8-9" />
       <path
-         id="rect98-4-4-0-9-1-6"
+         d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
          style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
+         id="rect98-4-4-0-9-1-6" />
     </g>
     <g
-       id="a7"
+       data-isl="#a7"
        transform="translate(-17.364142,19.641578)"
-       data-isl="#a7">
+       id="a7">
       <path
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
+         id="rect98-48-0-9-4-9-6"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         id="rect98-48-0-9-4-9-6" />
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
       <g
-         id="g251-9-6-2-7-9-9"
-         transform="translate(-2.4893493e-4,1.0686667e-4)">
+         transform="translate(-2.4893493e-4,1.0686667e-4)"
+         id="g251-9-6-2-7-9-9">
         <path
-           id="rect98-5-2-54-8-8-2"
-           style="fill:#0d6efd;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           transform="scale(0.26458333)"
            d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           transform="scale(0.26458333)" />
+           style="fill:#0d6efd;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           id="rect98-5-2-54-8-8-2" />
         <path
-           id="rect98-4-4-0-9-1-3-7"
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
+           id="rect98-4-4-0-9-1-3-7" />
       </g>
     </g>
     <g
-       id="o7"
+       data-isl="#o7"
        transform="translate(-8.2498917,24.903693)"
-       data-isl="#o7">
+       id="o7">
       <path
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
+         id="rect98-48-0-9-4-7-2"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         id="rect98-48-0-9-4-7-2" />
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
       <g
-         id="g251-9-6-2-7-1-1"
-         transform="translate(-2.4893493e-4,1.0686667e-4)">
+         transform="translate(-2.4893493e-4,1.0686667e-4)"
+         id="g251-9-6-2-7-1-1">
         <path
-           id="rect98-5-2-54-8-3-4"
-           style="fill:#ffc107;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           transform="scale(0.26458333)"
            d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           transform="scale(0.26458333)" />
+           style="fill:#ffc107;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           id="rect98-5-2-54-8-3-4" />
         <path
-           id="rect98-4-4-0-9-1-0-3"
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
+           id="rect98-4-4-0-9-1-0-3" />
       </g>
     </g>
     <g
-       transform="translate(0.809195,30.153641)"
+       data-isl="#d6"
        id="d6"
-       data-isl="#d6">
+       transform="translate(0.809195,30.153641)">
       <path
-         id="rect98-48-0-9-4-9-8-1"
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
+         id="rect98-48-0-9-4-9-8-1" />
       <g
-         transform="translate(-2.4893493e-4,1.0686667e-4)"
-         id="g251-9-6-2-7-9-0-2">
+         id="g251-9-6-2-7-9-0-2"
+         transform="translate(-2.4893493e-4,1.0686667e-4)">
         <path
-           transform="scale(0.26458333)"
-           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           id="rect98-5-2-54-8-8-1-2"
            style="fill:#198754;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           id="rect98-5-2-54-8-8-1-2" />
+           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           transform="scale(0.26458333)" />
         <path
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
+           id="rect98-4-4-0-9-1-3-4-5"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           id="rect98-4-4-0-9-1-3-4-5" />
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
       </g>
     </g>
     <g
-       transform="translate(10.081852,-90.654792)"
+       data-isl="#o3"
        id="o3"
-       data-isl="#o3">
+       transform="translate(10.081852,-90.654792)">
       <path
-         id="path1777"
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
+         id="path1777" />
       <g
-         transform="translate(-2.4893493e-4,1.0686667e-4)"
-         id="g1783">
+         id="g1783"
+         transform="translate(-2.4893493e-4,1.0686667e-4)">
         <path
-           transform="scale(0.26458333)"
-           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           id="path1779"
            style="fill:#ffc107;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           id="path1779" />
+           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           transform="scale(0.26458333)" />
         <path
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
+           id="path1781"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           id="path1781" />
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
       </g>
     </g>
     <g
-       id="a3"
+       data-isl="#a3"
        transform="translate(19.140939,-85.404844)"
-       data-isl="#a3">
+       id="a3">
       <path
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
+         id="path1787"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         id="path1787" />
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
       <g
-         id="g1793"
-         transform="translate(-2.4893493e-4,1.0686667e-4)">
+         transform="translate(-2.4893493e-4,1.0686667e-4)"
+         id="g1793">
         <path
-           id="path1789"
-           style="fill:#0d6efd;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           transform="scale(0.26458333)"
            d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           transform="scale(0.26458333)" />
+           style="fill:#0d6efd;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           id="path1789" />
         <path
-           id="path1791"
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
+           id="path1791" />
       </g>
     </g>
     <g
-       id="l3"
+       data-isl="#l3"
        transform="translate(28.255189,-80.142729)"
-       data-isl="#l3">
+       id="l3">
       <path
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
+         id="path1799"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         id="path1799" />
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
       <g
-         id="g1805"
-         transform="translate(-2.4893493e-4,1.0686667e-4)">
+         transform="translate(-2.4893493e-4,1.0686667e-4)"
+         id="g1805">
         <path
-           id="path1801"
-           style="fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           transform="scale(0.26458333)"
            d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           transform="scale(0.26458333)" />
+           style="fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           id="path1801" />
         <path
-           id="path1803"
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
+           id="path1803" />
       </g>
     </g>
     <g
-       transform="translate(37.314276,-74.892781)"
+       data-isl="#c3"
        id="c3"
-       data-isl="#c3">
+       transform="translate(37.314276,-74.892781)">
       <path
-         id="path1809"
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
+         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+         id="path1809" />
+      <g
+         id="g1815"
+         transform="translate(-2.4893493e-4,1.0686667e-4)">
+        <path
+           id="path1811"
+           style="fill:#dc3545;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           transform="scale(0.26458333)" />
+        <path
+           id="path1813"
+           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
+      </g>
+    </g>
+    <g
+       data-isl="#p3"
+       transform="translate(46.425873,-69.652025)"
+       id="p3">
+      <path
+         id="path1823"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
          d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
       <g
          transform="translate(-2.4893493e-4,1.0686667e-4)"
-         id="g1815">
+         id="g1829">
         <path
            transform="scale(0.26458333)"
            d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           style="fill:#dc3545;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           id="path1811" />
+           style="fill:#6f24a8;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           id="path1825" />
         <path
            d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           id="path1813" />
+           id="path1827" />
       </g>
     </g>
     <g
-       id="p3"
-       transform="translate(46.425873,-69.652025)"
-       data-isl="#p3">
+       data-isl="#d3"
+       id="d3"
+       transform="translate(55.48496,-64.402077)">
       <path
          d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         id="path1823" />
+         id="path1833" />
       <g
-         id="g1829"
+         id="g1839"
          transform="translate(-2.4893493e-4,1.0686667e-4)">
         <path
-           id="path1825"
+           id="path1835"
+           style="fill:#198754;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           transform="scale(0.26458333)" />
+        <path
+           id="path1837"
+           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
+      </g>
+    </g>
+    <g
+       data-isl="#o4"
+       id="o4"
+       transform="translate(64.59921,-59.139962)">
+      <path
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
+         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+         id="path1845" />
+      <g
+         id="g1851"
+         transform="translate(-2.4893493e-4,1.0686667e-4)">
+        <path
+           id="path1847"
+           style="fill:#ffc107;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           transform="scale(0.26458333)" />
+        <path
+           id="path1849"
+           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
+      </g>
+    </g>
+    <g
+       data-isl="#a4"
+       transform="translate(73.658297,-53.890014)"
+       id="a4">
+      <path
+         id="path1855"
+         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
+      <g
+         transform="translate(-2.4893493e-4,1.0686667e-4)"
+         id="g1861">
+        <path
+           transform="scale(0.26458333)"
+           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           style="fill:#0d6efd;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           id="path1857" />
+        <path
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
+           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+           id="path1859" />
+      </g>
+    </g>
+    <g
+       data-isl="#l4"
+       transform="translate(82.750851,-48.679793)"
+       id="l4">
+      <path
+         id="path1869"
+         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
+      <g
+         transform="translate(-2.4893493e-4,1.0686667e-4)"
+         id="g1875">
+        <path
+           transform="scale(0.26458333)"
+           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           style="fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           id="path1871" />
+        <path
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
+           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+           id="path1873" />
+      </g>
+    </g>
+    <g
+       data-isl="#c4"
+       id="c4"
+       transform="translate(91.809938,-43.429845)">
+      <path
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
+         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+         id="path1879" />
+      <g
+         id="g1885"
+         transform="translate(-2.4893493e-4,1.0686667e-4)">
+        <path
+           id="path1881"
+           style="fill:#dc3545;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           transform="scale(0.26458333)" />
+        <path
+           id="path1883"
+           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
+      </g>
+    </g>
+    <g
+       data-isl="#p4"
+       id="p4"
+       transform="translate(100.92419,-38.16773)">
+      <path
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
+         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+         id="path1891" />
+      <g
+         id="g1897"
+         transform="translate(-2.4893493e-4,1.0686667e-4)">
+        <path
+           id="path1893"
            style="fill:#6f24a8;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
            d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
            transform="scale(0.26458333)" />
         <path
-           id="path1827"
+           id="path1895"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
            d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
       </g>
     </g>
     <g
-       transform="translate(55.48496,-64.402077)"
-       id="d3"
-       data-isl="#d3">
+       data-isl="#d4"
+       transform="translate(109.98327,-32.917782)"
+       id="d4">
       <path
-         id="path1833"
+         id="path1901"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
          d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
       <g
          transform="translate(-2.4893493e-4,1.0686667e-4)"
-         id="g1839">
+         id="g1907">
         <path
            transform="scale(0.26458333)"
            d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
            style="fill:#198754;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           id="path1835" />
+           id="path1903" />
         <path
            d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           id="path1837" />
+           id="path1905" />
       </g>
     </g>
     <g
-       transform="translate(64.59921,-59.139962)"
-       id="o4"
-       data-isl="#o4">
+       data-isl="#p6"
+       transform="translate(9.9012965,24.864578)"
+       id="p6">
       <path
-         id="path1845"
+         id="rect98-48-0-2"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
          d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
       <g
          transform="translate(-2.4893493e-4,1.0686667e-4)"
-         id="g1851">
+         id="g251-9-6-27">
         <path
            transform="scale(0.26458333)"
            d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           style="fill:#ffc107;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           id="path1847" />
+           style="fill:#6f24a8;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           id="rect98-5-2-56" />
         <path
            d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           id="path1849" />
+           id="rect98-4-4-0-1" />
       </g>
     </g>
     <g
-       id="a4"
-       transform="translate(73.658297,-53.890014)"
-       data-isl="#a4">
+       data-isl="#c6"
+       transform="translate(18.99013,19.617415)"
+       id="c6">
       <path
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
+         id="rect98-48-3-8"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         id="path1855" />
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
       <g
-         id="g1861"
-         transform="translate(-2.4893493e-4,1.0686667e-4)">
+         transform="translate(-2.4893493e-4,1.0686667e-4)"
+         id="g251-9-1-55">
         <path
-           id="path1857"
-           style="fill:#0d6efd;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           transform="scale(0.26458333)"
            d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           transform="scale(0.26458333)" />
+           style="fill:#dc3545;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           id="rect98-5-1-0" />
         <path
-           id="path1859"
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
+           id="rect98-4-4-6-9" />
       </g>
     </g>
     <g
-       id="l4"
-       transform="translate(82.750851,-48.679793)"
-       data-isl="#l4">
+       data-isl="#l6"
+       style="fill:#343a40;fill-opacity:1"
+       id="l6"
+       transform="translate(28.092596,14.362105)">
       <path
          d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
-         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         id="path1869" />
+         style="opacity:0.2;fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+         id="rect98-48-0-8-7" />
       <g
-         id="g1875"
+         style="fill:#343a40;fill-opacity:1"
+         id="g251-9-6-1-0"
          transform="translate(-2.4893493e-4,1.0686667e-4)">
         <path
-           id="path1871"
+           id="rect98-5-2-5-3"
            style="fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
            d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
            transform="scale(0.26458333)" />
         <path
-           id="path1873"
+           id="rect98-4-4-0-8-7"
+           style="opacity:0.3;fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
+      </g>
+      <path
+         id="rect98-4-4-6-9-5"
+         style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+         d="m -34.645168,157.20653 v 0.52917 l 8.40311,4.85138 8.40259,-4.85138 v -0.52917 l -8.40259,4.85139 z" />
+    </g>
+    <g
+       data-isl="#a6"
+       transform="translate(37.207147,9.099539)"
+       id="a6">
+      <path
+         id="path416-0"
+         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
+      <g
+         transform="translate(-2.4893493e-4,1.0686667e-4)"
+         id="g422-6">
+        <path
+           transform="scale(0.26458333)"
+           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           style="fill:#0d6efd;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           id="path418-34" />
+        <path
+           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
+           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+           id="path420-7" />
+      </g>
+    </g>
+    <g
+       data-isl="#o6"
+       id="o6"
+       transform="translate(46.309613,3.8442275)">
+      <path
+         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
+         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+         id="path426-2" />
+      <g
+         id="g432-6"
+         transform="translate(-2.4893493e-4,1.0686667e-4)">
+        <path
+           id="path428-96"
+           style="fill:#ffc107;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+           transform="scale(0.26458333)" />
+        <path
+           id="path430-34"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
            d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
       </g>
     </g>
     <g
-       transform="translate(91.809938,-43.429845)"
-       id="c4"
-       data-isl="#c4">
-      <path
-         id="path1879"
-         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
-      <g
-         transform="translate(-2.4893493e-4,1.0686667e-4)"
-         id="g1885">
-        <path
-           transform="scale(0.26458333)"
-           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           style="fill:#dc3545;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           id="path1881" />
-        <path
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
-           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           id="path1883" />
-      </g>
-    </g>
-    <g
-       transform="translate(100.92419,-38.16773)"
-       id="p4"
-       data-isl="#p4">
-      <path
-         id="path1891"
-         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
-      <g
-         transform="translate(-2.4893493e-4,1.0686667e-4)"
-         id="g1897">
-        <path
-           transform="scale(0.26458333)"
-           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           style="fill:#6f24a8;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           id="path1893" />
-        <path
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
-           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           id="path1895" />
-      </g>
-    </g>
-    <g
-       id="d4"
-       transform="translate(109.98327,-32.917782)"
-       data-isl="#d4">
+       data-isl="#d5"
+       id="d5"
+       transform="translate(55.398447,-1.402936)">
       <path
          d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         id="path1901" />
+         id="path436-9" />
       <g
-         id="g1907"
+         id="g442-9"
          transform="translate(-2.4893493e-4,1.0686667e-4)">
         <path
-           id="path1903"
+           id="path438-9"
            style="fill:#198754;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
            d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
            transform="scale(0.26458333)" />
         <path
-           id="path1905"
+           id="path440-2"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
            d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
       </g>
     </g>
     <g
-       id="p6"
-       transform="translate(9.9012965,24.864578)"
-       data-isl="#p6">
-      <path
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
-         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         id="rect98-48-0-2" />
+       transform="translate(64.500913,-6.658246)"
+       id="g454-2"
+       style="fill:#343a40;fill-opacity:1">
       <g
-         id="g251-9-6-27"
-         transform="translate(-2.4893493e-4,1.0686667e-4)">
-        <path
-           id="rect98-5-2-56"
-           style="fill:#6f24a8;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           transform="scale(0.26458333)" />
-        <path
-           id="rect98-4-4-0-1"
-           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
-      </g>
+         transform="translate(-2.4893493e-4,1.0686667e-4)"
+         id="g452-2"
+         style="fill:#343a40;fill-opacity:1" />
+    </g>
+    <path
+       id="rect98-48-0-9-7"
+       style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+       d="m 38.270483,145.91089 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
+    <g
+       data-isl="#p5"
+       transform="translate(64.545336,-6.6840831)"
+       id="p5">
+      <path
+         transform="scale(0.26458333)"
+         d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
+         style="fill:#6f24a8;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
+         id="rect98-5-2-54-2" />
+      <path
+         d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
+         style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+         id="rect98-4-4-0-9-4" />
     </g>
     <g
-       id="c6"
-       transform="translate(18.99013,19.617415)"
-       data-isl="#c6">
+       data-isl="#c5"
+       id="c5"
+       transform="translate(73.634415,-11.93135)">
       <path
          d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         id="rect98-48-3-8" />
+         id="rect98-48-3-3-1" />
       <g
-         id="g251-9-1-55"
+         id="g251-9-1-5-6"
          transform="translate(-2.4893493e-4,1.0686667e-4)">
         <path
-           id="rect98-5-1-0"
+           id="rect98-5-1-9-5"
            style="fill:#dc3545;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
            d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
            transform="scale(0.26458333)" />
         <path
-           id="rect98-4-4-6-9"
+           id="rect98-4-4-6-0-8"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
            d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
       </g>
     </g>
     <g
-       transform="translate(28.092596,14.362105)"
-       id="l6"
-       style="fill:#343a40;fill-opacity:1"
-       data-isl="#l6">
+       data-isl="#l5"
+       transform="translate(82.736885,-17.18667)"
+       id="l5"
+       style="fill:#343a40;fill-opacity:1">
       <path
-         id="rect98-48-0-8-7"
+         id="rect98-48-0-8-9-2"
          style="opacity:0.2;fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
          d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
       <g
          transform="translate(-2.4893493e-4,1.0686667e-4)"
-         id="g251-9-6-1-0"
+         id="g251-9-6-1-5-2"
          style="fill:#343a40;fill-opacity:1">
         <path
            transform="scale(0.26458333)"
            d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
            style="fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           id="rect98-5-2-5-3" />
+           id="rect98-5-2-5-2-9" />
         <path
            d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
            style="opacity:0.3;fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           id="rect98-4-4-0-8-7" />
+           id="rect98-4-4-0-8-5-7" />
       </g>
-      <path
-         d="m -34.645168,157.20653 v 0.52917 l 8.40311,4.85138 8.40259,-4.85138 v -0.52917 l -8.40259,4.85139 z"
-         style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         id="rect98-4-4-6-9-5" />
     </g>
     <g
-       id="a6"
-       transform="translate(37.207147,9.099539)"
-       data-isl="#a6">
+       data-isl="#a5"
+       id="a5"
+       transform="translate(91.851435,-22.44923)">
       <path
          d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         id="path416-0" />
+         id="path416-3-9" />
       <g
-         id="g422-6"
+         id="g422-38-6"
          transform="translate(-2.4893493e-4,1.0686667e-4)">
         <path
-           id="path418-34"
+           id="path418-3-1"
            style="fill:#0d6efd;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
            d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
            transform="scale(0.26458333)" />
         <path
-           id="path420-7"
+           id="path420-0-6"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
            d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
       </g>
     </g>
     <g
-       transform="translate(46.309613,3.8442275)"
-       id="o6"
-       data-isl="#o6">
+       data-isl="#o5"
+       transform="translate(100.95391,-27.70454)"
+       id="o5">
       <path
-         id="path426-2"
+         id="path426-5-2"
          style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
          d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
       <g
          transform="translate(-2.4893493e-4,1.0686667e-4)"
-         id="g432-6">
+         id="g432-1-9">
         <path
            transform="scale(0.26458333)"
            d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
            style="fill:#ffc107;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           id="path428-96" />
+           id="path428-9-0" />
         <path
            d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
            style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           id="path430-34" />
+           id="path430-3-3" />
       </g>
-    </g>
-    <g
-       transform="translate(55.398447,-1.402936)"
-       id="d5"
-       data-isl="#d5">
-      <path
-         id="path436-9"
-         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
-      <g
-         transform="translate(-2.4893493e-4,1.0686667e-4)"
-         id="g442-9">
-        <path
-           transform="scale(0.26458333)"
-           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           style="fill:#198754;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           id="path438-9" />
-        <path
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
-           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           id="path440-2" />
-      </g>
-    </g>
-    <g
-       style="fill:#343a40;fill-opacity:1"
-       id="g454-2"
-       transform="translate(64.500913,-6.658246)">
-      <g
-         style="fill:#343a40;fill-opacity:1"
-         id="g452-2"
-         transform="translate(-2.4893493e-4,1.0686667e-4)" />
     </g>
     <path
-       d="m 38.270483,145.91089 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
-       style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-       id="rect98-48-0-9-7" />
-    <g
-       id="p5"
-       transform="translate(64.545336,-6.6840831)"
-       data-isl="#p5">
-      <path
-         id="rect98-5-2-54-2"
-         style="fill:#6f24a8;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-         d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-         transform="scale(0.26458333)" />
-      <path
-         id="rect98-4-4-0-9-4"
-         style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
-    </g>
-    <g
-       transform="translate(73.634415,-11.93135)"
-       id="c5"
-       data-isl="#c5">
-      <path
-         id="rect98-48-3-3-1"
-         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
-      <g
-         transform="translate(-2.4893493e-4,1.0686667e-4)"
-         id="g251-9-1-5-6">
-        <path
-           transform="scale(0.26458333)"
-           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           style="fill:#dc3545;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           id="rect98-5-1-9-5" />
-        <path
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
-           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           id="rect98-4-4-6-0-8" />
-      </g>
-    </g>
-    <g
-       style="fill:#343a40;fill-opacity:1"
-       id="l5"
-       transform="translate(82.736885,-17.18667)"
-       data-isl="#l5">
-      <path
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
-         style="opacity:0.2;fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         id="rect98-48-0-8-9-2" />
-      <g
-         style="fill:#343a40;fill-opacity:1"
-         id="g251-9-6-1-5-2"
-         transform="translate(-2.4893493e-4,1.0686667e-4)">
-        <path
-           id="rect98-5-2-5-2-9"
-           style="fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           transform="scale(0.26458333)" />
-        <path
-           id="rect98-4-4-0-8-5-7"
-           style="opacity:0.3;fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
-      </g>
-    </g>
-    <g
-       transform="translate(91.851435,-22.44923)"
-       id="a5"
-       data-isl="#a5">
-      <path
-         id="path416-3-9"
-         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z" />
-      <g
-         transform="translate(-2.4893493e-4,1.0686667e-4)"
-         id="g422-38-6">
-        <path
-           transform="scale(0.26458333)"
-           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           style="fill:#0d6efd;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           id="path418-3-1" />
-        <path
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
-           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           id="path420-0-6" />
-      </g>
-    </g>
-    <g
-       id="o5"
-       transform="translate(100.95391,-27.70454)"
-       data-isl="#o5">
-      <path
-         d="m -26.275102,152.59508 -8.403105,4.85138 v 0.52917 l 8.403105,4.85138 8.402589,-4.85138 v -0.52917 z"
-         style="opacity:0.2;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-         id="path426-5-2" />
-      <g
-         id="g432-1-9"
-         transform="translate(-2.4893493e-4,1.0686667e-4)">
-        <path
-           id="path428-9-0"
-           style="fill:#ffc107;fill-opacity:1;stroke:none;stroke-width:0.377953;paint-order:markers fill stroke"
-           d="m -99.181641,575.83008 -31.759769,18.33594 v 2 l 31.759769,18.33593 31.757813,-18.33593 v -2 z"
-           transform="scale(0.26458333)" />
-        <path
-           id="path430-3-3"
-           style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-           d="m -34.644914,157.20642 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
-      </g>
-    </g>
+       d="m 48.091717,140.01986 v 0.52917 l 8.40311,4.85138 8.40258,-4.85138 v -0.52917 l -8.40258,4.85139 z"
+       style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+       id="rect98-4-4-6-0-8-2" />
   </g>
   <g
      id="g1216-0">
     <path
-       id="rect1160-3-0"
+       d="m 18.655819,70.674665 -0.263774,2.121118 3.937658,-2.273407 z m 1.749785,-6.278382 -3.673885,0.152289 3.410111,1.968829 z"
        style="opacity:0.15;fill:#333333;stroke-width:0.377953;paint-order:markers fill stroke"
-       d="m 18.655819,70.674665 -0.263774,2.121118 3.937658,-2.273407 z m 1.749785,-6.278382 -3.673885,0.152289 3.410111,1.968829 z" />
+       id="rect1160-3-0" />
     <path
-       d="m 18.657875,70.716447 -0.263774,2.121118 3.937658,-2.273407 z m 1.749785,-6.278382 -3.673885,0.152289 3.410111,1.968829 z"
+       id="rect1160-3-5-0"
        style="opacity:0.15;fill:#333333;stroke-width:0.377953;paint-order:markers fill stroke"
-       id="rect1160-3-5-0" />
+       d="m 18.657875,70.716447 -0.263774,2.121118 3.937658,-2.273407 z m 1.749785,-6.278382 -3.673885,0.152289 3.410111,1.968829 z" />
   </g>
   <g
-     transform="matrix(0.8660254,0.5,-1.0042342,0.57490564,69.750923,33.774622)"
-     id="g1320">
+     id="g1320"
+     transform="matrix(0.8660254,0.5,-1.0042342,0.57490564,69.750923,33.774622)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992;"
+       x="-32.916843"
+       y="3.1993966"
+       id="text1294-6"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1292-2"
+         x="-34.018536"
+         y="3.1993966"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992;">2</tspan></text>
     <text
        transform="rotate(-90)"
-       id="text1294-6"
-       y="3.1993966"
-       x="-32.916843"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992;"
+       id="text1294-6-8"
+       y="3.3397212"
+       x="-41.841228"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992;"
-         y="3.1993966"
-         x="-34.018536"
-         id="tspan1292-2"
-         sodipodi:role="line">2</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
+         y="3.3397212"
+         x="-41.841228"
+         id="tspan1292-2-6"
+         sodipodi:role="line">1</tspan></text>
+    <text
+       transform="rotate(-90)"
+       id="text1294-6-3"
+       y="3.2781916"
+       x="-23.739588"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999992;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992;fill:#ffffff;"
+         y="3.2781916"
+         x="-23.739588"
+         id="tspan1292-2-60"
+         sodipodi:role="line">3</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       x="-41.841228"
-       y="3.3397212"
-       id="text1294-6-8"
+       x="-14.520215"
+       y="3.1488464"
+       id="text1294-6-3-3"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
-         id="tspan1292-2-6"
-         x="-41.841228"
-         y="3.3397212"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">1</tspan></text>
+         id="tspan1292-2-60-5"
+         x="-14.520215"
+         y="3.1488464"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">4</tspan></text>
+    <text
+       transform="rotate(-90)"
+       id="text1294-6-3-3-1"
+       y="3.3045943"
+       x="-5.475111"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
+         y="3.3045943"
+         x="-5.475111"
+         id="tspan1292-2-60-5-0"
+         sodipodi:role="line">5</tspan></text>
+    <text
+       transform="rotate(-90)"
+       id="text1294-6-2"
+       y="3.1372409"
+       x="12.83894"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
+         y="3.1372409"
+         x="12.83894"
+         id="tspan1292-2-2"
+         sodipodi:role="line">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       x="3.5199618"
+       y="3.1041861"
+       id="text1294-6-8-4"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1292-2-6-1"
+         x="3.5199618"
+         y="3.1041861"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       x="22.017166"
+       y="2.9984043"
+       id="text1294-6-3-0"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1292-2-60-8"
+         x="22.017166"
+         y="2.9984043"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.999992">8</tspan></text>
+    <text
+       transform="rotate(-90)"
+       id="text1294-6-3-3-8"
+       y="2.9272747"
+       x="31.1241"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999992;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992;fill:#ffffff;"
+         y="2.9272747"
+         x="31.1241"
+         id="tspan1292-2-60-5-02"
+         sodipodi:role="line">9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       x="40.193253"
+       y="2.9231758"
+       id="text1294-6-3-3-1-3"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1292-2-60-5-0-8"
+         x="40.193253"
+         y="2.9231758"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       x="49.325375"
+       y="2.6618083"
+       id="text1294-6-3-3-8-5"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1292-2-60-5-02-2"
+         x="49.325375"
+         y="2.6618083"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">11</tspan></text>
+    <text
+       transform="rotate(-90)"
+       id="text1294-6-3-3-1-3-1"
+       y="2.6569288"
+       x="58.384525"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
+         y="2.6569288"
+         x="58.384525"
+         id="tspan1292-2-60-5-0-8-9"
+         sodipodi:role="line">12</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       x="58.171185"
+       y="13.569874"
+       id="text1294-6-3-3-1-3-1-3"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1292-2-60-5-0-8-9-5"
+         x="58.171185"
+         y="13.569874"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">13</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       x="58.05983"
+       y="24.085361"
+       id="text1294-6-3-3-1-3-1-2"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1292-2-60-5-0-8-9-7"
+         x="58.05983"
+         y="24.085361"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">14</tspan></text>
+    <text
+       transform="rotate(-90)"
+       id="text1294-6-3-3-1-3-1-3-7"
+       y="34.782833"
+       x="58.120323"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999992;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992;fill:#ffffff;"
+         y="34.782833"
+         x="58.120323"
+         id="tspan1292-2-60-5-0-8-9-5-8"
+         sodipodi:role="line">15</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       x="58.115974"
+       y="44.980446"
+       id="text1294-6-3-3-1-3-1-1"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1292-2-60-5-0-8-9-71"
+         x="58.115974"
+         y="44.980446"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">16</tspan></text>
+    <text
+       transform="rotate(-90)"
+       id="text1294-6-3-3-1-3-1-3-2"
+       y="55.893391"
+       x="57.902634"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
+         y="55.893391"
+         x="57.902634"
+         id="tspan1292-2-60-5-0-8-9-5-81"
+         sodipodi:role="line">17</tspan></text>
+    <text
+       transform="rotate(-90)"
+       id="text1294-6-3-3-1-3-1-2-4"
+       y="66.408882"
+       x="57.791279"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
+         y="66.408882"
+         x="57.791279"
+         id="tspan1292-2-60-5-0-8-9-7-2"
+         sodipodi:role="line">18</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       x="57.851772"
+       y="77.106354"
+       id="text1294-6-3-3-1-3-1-3-7-8"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1292-2-60-5-0-8-9-5-8-2"
+         x="57.851772"
+         y="77.106354"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">19</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       x="58.144447"
+       y="87.198074"
+       id="text1294-6-3-3-1-3-1-3-7-9"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1292-2-60-5-0-8-9-5-8-6"
+         x="58.144447"
+         y="87.198074"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">20</tspan></text>
+    <text
+       transform="rotate(-90)"
+       id="text1294-6-3-3-1-3-1-1-4"
+       y="97.395691"
+       x="58.140099"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999992;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992;fill:#ffffff;"
+         y="97.395691"
+         x="58.140099"
+         id="tspan1292-2-60-5-0-8-9-71-4"
+         sodipodi:role="line">21</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       x="58.057888"
+       y="108.0844"
+       id="text1294-6-3-3-1-3-1-3-2-6"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1292-2-60-5-0-8-9-5-81-1"
+         x="58.057888"
+         y="108.0844"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">22</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       x="58.156433"
+       y="118.71885"
+       id="text1294-6-3-3-1-3-1-2-4-0"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1292-2-60-5-0-8-9-7-2-4"
+         x="58.156433"
+         y="118.71885"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">23</tspan></text>
+    <text
+       transform="rotate(-90)"
+       id="text1294-6-9"
+       y="129.77364"
+       x="-33.428768"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
+         y="129.77364"
+         x="-33.428768"
+         id="tspan1292-2-1"
+         sodipodi:role="line">34</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       x="-42.353153"
+       y="129.91396"
+       id="text1294-6-8-48"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1292-2-6-8"
+         x="-42.353153"
+         y="129.91396"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">35</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999992;"
-       x="-23.739588"
-       y="3.2781916"
-       id="text1294-6-3"
+       x="-24.251511"
+       y="129.85243"
+       id="text1294-6-3-7"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
-         id="tspan1292-2-60"
-         x="-23.739588"
-         y="3.2781916"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992;fill:#ffffff;">3</tspan></text>
+         id="tspan1292-2-60-9"
+         x="-24.251511"
+         y="129.85243"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.999992;">33</tspan></text>
     <text
        transform="rotate(-90)"
-       id="text1294-6-3-3"
-       y="3.1488464"
-       x="-14.520215"
+       id="text1294-6-3-3-10"
+       y="129.72308"
+       x="-15.032138"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
-         y="3.1488464"
-         x="-14.520215"
-         id="tspan1292-2-60-5"
-         sodipodi:role="line">4</tspan></text>
+         y="129.72308"
+         x="-15.032138"
+         id="tspan1292-2-60-5-8"
+         sodipodi:role="line">32</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       x="-5.475111"
-       y="3.3045943"
-       id="text1294-6-3-3-1"
+       x="-5.9870358"
+       y="129.87883"
+       id="text1294-6-3-3-1-0"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
-         id="tspan1292-2-60-5-0"
-         x="-5.475111"
-         y="3.3045943"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">5</tspan></text>
+         id="tspan1292-2-60-5-0-2"
+         x="-5.9870358"
+         y="129.87883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">31</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       x="12.83894"
-       y="3.1372409"
-       id="text1294-6-2"
+       x="12.327016"
+       y="129.71149"
+       id="text1294-6-2-3"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
-         id="tspan1292-2-2"
-         x="12.83894"
-         y="3.1372409"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">7</tspan></text>
+         id="tspan1292-2-2-0"
+         x="12.327016"
+         y="129.71149"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">29</tspan></text>
     <text
        transform="rotate(-90)"
-       id="text1294-6-8-4"
-       y="3.1041861"
-       x="3.5199618"
+       id="text1294-6-8-4-5"
+       y="129.67842"
+       x="3.0080373"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
-         y="3.1041861"
-         x="3.5199618"
-         id="tspan1292-2-6-1"
-         sodipodi:role="line">6</tspan></text>
+         y="129.67842"
+         x="3.0080376"
+         id="tspan1292-2-6-1-6"
+         sodipodi:role="line">30</tspan></text>
     <text
        transform="rotate(-90)"
-       id="text1294-6-3-0"
-       y="2.9984043"
-       x="22.017166"
+       id="text1294-6-3-0-2"
+       y="129.57265"
+       x="21.505241"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.999992"
-         y="2.9984043"
-         x="22.017166"
-         id="tspan1292-2-60-8"
-         sodipodi:role="line">8</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999992;"
-       x="31.1241"
-       y="2.9272747"
-       id="text1294-6-3-3-8"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan1292-2-60-5-02"
-         x="31.1241"
-         y="2.9272747"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992;fill:#ffffff;">9</tspan></text>
-    <text
-       transform="rotate(-90)"
-       id="text1294-6-3-3-1-3"
-       y="2.9231758"
-       x="40.193253"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
-         y="2.9231758"
-         x="40.193253"
-         id="tspan1292-2-60-5-0-8"
-         sodipodi:role="line">10</tspan></text>
-    <text
-       transform="rotate(-90)"
-       id="text1294-6-3-3-8-5"
-       y="2.6618083"
-       x="49.325375"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
-         y="2.6618083"
-         x="49.325375"
-         id="tspan1292-2-60-5-02-2"
-         sodipodi:role="line">11</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       x="58.384525"
-       y="2.6569288"
-       id="text1294-6-3-3-1-3-1"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan1292-2-60-5-0-8-9"
-         x="58.384525"
-         y="2.6569288"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">12</tspan></text>
-    <text
-       transform="rotate(-90)"
-       id="text1294-6-3-3-1-3-1-3"
-       y="13.569874"
-       x="58.171185"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
-         y="13.569874"
-         x="58.171185"
-         id="tspan1292-2-60-5-0-8-9-5"
-         sodipodi:role="line">13</tspan></text>
-    <text
-       transform="rotate(-90)"
-       id="text1294-6-3-3-1-3-1-2"
-       y="24.085361"
-       x="58.05983"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
-         y="24.085361"
-         x="58.05983"
-         id="tspan1292-2-60-5-0-8-9-7"
-         sodipodi:role="line">14</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999992;"
-       x="58.120323"
-       y="34.782833"
-       id="text1294-6-3-3-1-3-1-3-7"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan1292-2-60-5-0-8-9-5-8"
-         x="58.120323"
-         y="34.782833"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992;fill:#ffffff;">15</tspan></text>
-    <text
-       transform="rotate(-90)"
-       id="text1294-6-3-3-1-3-1-1"
-       y="44.980446"
-       x="58.115974"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
-         y="44.980446"
-         x="58.115974"
-         id="tspan1292-2-60-5-0-8-9-71"
-         sodipodi:role="line">16</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       x="57.902634"
-       y="55.893391"
-       id="text1294-6-3-3-1-3-1-3-2"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan1292-2-60-5-0-8-9-5-81"
-         x="57.902634"
-         y="55.893391"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">17</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       x="57.791279"
-       y="66.408882"
-       id="text1294-6-3-3-1-3-1-2-4"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan1292-2-60-5-0-8-9-7-2"
-         x="57.791279"
-         y="66.408882"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">18</tspan></text>
-    <text
-       transform="rotate(-90)"
-       id="text1294-6-3-3-1-3-1-3-7-8"
-       y="77.106354"
-       x="57.851772"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
-         y="77.106354"
-         x="57.851772"
-         id="tspan1292-2-60-5-0-8-9-5-8-2"
-         sodipodi:role="line">19</tspan></text>
-    <text
-       transform="rotate(-90)"
-       id="text1294-6-3-3-1-3-1-3-7-9"
-       y="87.198074"
-       x="58.144447"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
-         y="87.198074"
-         x="58.144447"
-         id="tspan1292-2-60-5-0-8-9-5-8-6"
-         sodipodi:role="line">20</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999992;"
-       x="58.140099"
-       y="97.395691"
-       id="text1294-6-3-3-1-3-1-1-4"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan1292-2-60-5-0-8-9-71-4"
-         x="58.140099"
-         y="97.395691"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992;fill:#ffffff;">21</tspan></text>
-    <text
-       transform="rotate(-90)"
-       id="text1294-6-3-3-1-3-1-3-2-6"
-       y="108.0844"
-       x="58.057888"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
-         y="108.0844"
-         x="58.057888"
-         id="tspan1292-2-60-5-0-8-9-5-81-1"
-         sodipodi:role="line">22</tspan></text>
-    <text
-       transform="rotate(-90)"
-       id="text1294-6-3-3-1-3-1-2-4-0"
-       y="118.71885"
-       x="58.156433"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
-         y="118.71885"
-         x="58.156433"
-         id="tspan1292-2-60-5-0-8-9-7-2-4"
-         sodipodi:role="line">23</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       x="-33.428768"
-       y="129.77364"
-       id="text1294-6-9"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan1292-2-1"
-         x="-33.428768"
-         y="129.77364"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">34</tspan></text>
-    <text
-       transform="rotate(-90)"
-       id="text1294-6-8-48"
-       y="129.91396"
-       x="-42.353153"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
-         y="129.91396"
-         x="-42.353153"
-         id="tspan1292-2-6-8"
-         sodipodi:role="line">35</tspan></text>
-    <text
-       transform="rotate(-90)"
-       id="text1294-6-3-7"
-       y="129.85243"
-       x="-24.251511"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999992;"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.999992;"
-         y="129.85243"
-         x="-24.251511"
-         id="tspan1292-2-60-9"
-         sodipodi:role="line">33</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       x="-15.032138"
-       y="129.72308"
-       id="text1294-6-3-3-10"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan1292-2-60-5-8"
-         x="-15.032138"
-         y="129.72308"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">32</tspan></text>
-    <text
-       transform="rotate(-90)"
-       id="text1294-6-3-3-1-0"
-       y="129.87883"
-       x="-5.9870358"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
-         y="129.87883"
-         x="-5.9870358"
-         id="tspan1292-2-60-5-0-2"
-         sodipodi:role="line">31</tspan></text>
-    <text
-       transform="rotate(-90)"
-       id="text1294-6-2-3"
-       y="129.71149"
-       x="12.327016"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
-         y="129.71149"
-         x="12.327016"
-         id="tspan1292-2-2-0"
-         sodipodi:role="line">29</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       x="3.0080373"
-       y="129.67842"
-       id="text1294-6-8-4-5"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan1292-2-6-1-6"
-         x="3.0080376"
-         y="129.67842"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">30</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       x="21.505241"
-       y="129.57265"
-       id="text1294-6-3-0-2"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan1292-2-60-8-2"
-         x="21.505241"
          y="129.57265"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.999992">28</tspan></text>
+         x="21.505241"
+         id="tspan1292-2-60-8-2"
+         sodipodi:role="line">28</tspan></text>
     <text
-       transform="rotate(-90)"
-       id="text1294-6-3-3-8-3"
-       y="129.50151"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999992;"
        x="30.612177"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999992;"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992;fill:#ffffff;"
-         y="129.50151"
-         x="30.612177"
+       y="129.50151"
+       id="text1294-6-3-3-8-3"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
          id="tspan1292-2-60-5-02-7"
-         sodipodi:role="line">27</tspan></text>
+         x="30.612177"
+         y="129.50151"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992;fill:#ffffff;">27</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       x="39.681332"
-       y="129.49742"
+       transform="rotate(-90)"
        id="text1294-6-3-3-1-3-4"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan1292-2-60-5-0-8-0"
-         x="39.681332"
+       y="129.49742"
+       x="39.681332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
          y="129.49742"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">26</tspan></text>
+         x="39.681332"
+         id="tspan1292-2-60-5-0-8-0"
+         sodipodi:role="line">26</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       x="48.81345"
-       y="129.23605"
+       transform="rotate(-90)"
        id="text1294-6-3-3-8-5-5"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan1292-2-60-5-02-2-6"
-         x="48.81345"
+       y="129.23605"
+       x="48.81345"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
          y="129.23605"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">25</tspan></text>
+         x="48.81345"
+         id="tspan1292-2-60-5-02-2-6"
+         sodipodi:role="line">25</tspan></text>
     <text
-       transform="rotate(-90)"
-       id="text1294-6-3-3-1-3-1-7"
-       y="129.23117"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
        x="57.872601"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
-         y="129.23117"
-         x="57.872601"
+       y="129.23117"
+       id="text1294-6-3-3-1-3-1-7"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
          id="tspan1292-2-60-5-0-8-9-4"
-         sodipodi:role="line">24</tspan></text>
+         x="57.872601"
+         y="129.23117"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">24</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       x="-51.076862"
-       y="14.084274"
+       transform="rotate(-90)"
        id="text1294-6-3-3-1-3-1-3-3"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan1292-2-60-5-0-8-9-5-4"
-         x="-51.076862"
+       y="14.084274"
+       x="-51.076862"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
          y="14.084274"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">47</tspan></text>
+         x="-51.076862"
+         id="tspan1292-2-60-5-0-8-9-5-4"
+         sodipodi:role="line">47</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       x="-51.188217"
-       y="24.599766"
+       transform="rotate(-90)"
        id="text1294-6-3-3-1-3-1-2-5"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan1292-2-60-5-0-8-9-7-21"
-         x="-51.188217"
+       y="24.599766"
+       x="-51.188217"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
          y="24.599766"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">46</tspan></text>
+         x="-51.188217"
+         id="tspan1292-2-60-5-0-8-9-7-21"
+         sodipodi:role="line">46</tspan></text>
     <text
-       transform="rotate(-90)"
-       id="text1294-6-3-3-1-3-1-3-7-2"
-       y="35.297237"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999992;"
        x="-51.127724"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999992;"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992;fill:#ffffff;"
-         y="35.297237"
-         x="-51.127724"
+       y="35.297237"
+       id="text1294-6-3-3-1-3-1-3-7-2"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
          id="tspan1292-2-60-5-0-8-9-5-8-9"
-         sodipodi:role="line">45</tspan></text>
+         x="-51.127724"
+         y="35.297237"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992;fill:#ffffff;">45</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       x="-51.132072"
-       y="45.49485"
+       transform="rotate(-90)"
        id="text1294-6-3-3-1-3-1-1-3"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan1292-2-60-5-0-8-9-71-0"
-         x="-51.132072"
+       y="45.49485"
+       x="-51.132072"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
          y="45.49485"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">44</tspan></text>
+         x="-51.132072"
+         id="tspan1292-2-60-5-0-8-9-71-0"
+         sodipodi:role="line">44</tspan></text>
     <text
-       transform="rotate(-90)"
-       id="text1294-6-3-3-1-3-1-3-2-9"
-       y="56.407795"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
        x="-51.345413"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
-         y="56.407795"
-         x="-51.345413"
+       y="56.407795"
+       id="text1294-6-3-3-1-3-1-3-2-9"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
          id="tspan1292-2-60-5-0-8-9-5-81-2"
-         sodipodi:role="line">43</tspan></text>
+         x="-51.345413"
+         y="56.407795"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">43</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       x="-51.456768"
+       y="66.923286"
+       id="text1294-6-3-3-1-3-1-2-4-3"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1292-2-60-5-0-8-9-7-2-1"
+         x="-51.456768"
+         y="66.923286"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">42</tspan></text>
     <text
        transform="rotate(-90)"
-       id="text1294-6-3-3-1-3-1-2-4-3"
-       y="66.923286"
-       x="-51.456768"
+       id="text1294-6-3-3-1-3-1-3-7-8-0"
+       y="77.620758"
+       x="-51.396275"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
-         y="66.923286"
-         x="-51.456768"
-         id="tspan1292-2-60-5-0-8-9-7-2-1"
-         sodipodi:role="line">42</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       x="-51.396275"
-       y="77.620758"
-       id="text1294-6-3-3-1-3-1-3-7-8-0"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan1292-2-60-5-0-8-9-5-8-2-4"
-         x="-51.396275"
          y="77.620758"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">41</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       x="-51.1036"
-       y="87.712479"
-       id="text1294-6-3-3-1-3-1-3-7-9-3"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan1292-2-60-5-0-8-9-5-8-6-7"
-         x="-51.1036"
-         y="87.712479"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">40</tspan></text>
+         x="-51.396275"
+         id="tspan1292-2-60-5-0-8-9-5-8-2-4"
+         sodipodi:role="line">41</tspan></text>
     <text
        transform="rotate(-90)"
-       id="text1294-6-3-3-1-3-1-1-4-7"
-       y="97.910095"
-       x="-51.107948"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999992;"
+       id="text1294-6-3-3-1-3-1-3-7-9-3"
+       y="87.712479"
+       x="-51.1036"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992;fill:#ffffff;"
-         y="97.910095"
-         x="-51.107948"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
+         y="87.712479"
+         x="-51.1036"
+         id="tspan1292-2-60-5-0-8-9-5-8-6-7"
+         sodipodi:role="line">40</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999992;"
+       x="-51.107948"
+       y="97.910095"
+       id="text1294-6-3-3-1-3-1-1-4-7"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
          id="tspan1292-2-60-5-0-8-9-71-4-9"
-         sodipodi:role="line">39</tspan></text>
+         x="-51.107948"
+         y="97.910095"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992;fill:#ffffff;">39</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       x="-51.190159"
-       y="108.5988"
+       transform="rotate(-90)"
        id="text1294-6-3-3-1-3-1-3-2-6-7"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan1292-2-60-5-0-8-9-5-81-1-4"
-         x="-51.190159"
+       y="108.5988"
+       x="-51.190159"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
          y="108.5988"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">38</tspan></text>
+         x="-51.190159"
+         id="tspan1292-2-60-5-0-8-9-5-81-1-4"
+         sodipodi:role="line">38</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       x="-51.091614"
-       y="119.23325"
+       transform="rotate(-90)"
        id="text1294-6-3-3-1-3-1-2-4-0-1"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan1292-2-60-5-0-8-9-7-2-4-7"
-         x="-51.091614"
-         y="119.23325"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">37</tspan></text>
-    <text
-       xml:space="preserve"
+       y="119.23325"
+       x="-51.091614"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
-       x="-51.375446"
-       y="129.74557"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
+         y="119.23325"
+         x="-51.091614"
+         id="tspan1292-2-60-5-0-8-9-7-2-4-7"
+         sodipodi:role="line">37</tspan></text>
+    <text
+       transform="rotate(-90)"
        id="text1294-6-3-3-1-3-1-7-7"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan1292-2-60-5-0-8-9-4-3"
-         x="-51.375446"
+       y="129.74557"
+       x="-51.375446"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79587px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;text-anchor:end;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999992"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992"
          y="129.74557"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aldo the Apache';-inkscape-font-specification:'Aldo the Apache';text-align:end;text-anchor:end;stroke-width:0.999992">36</tspan></text>
+         x="-51.375446"
+         id="tspan1292-2-60-5-0-8-9-4-3"
+         sodipodi:role="line">36</tspan></text>
   </g>
   <path
-     id="path420-1"
+     d="m 38.618853,52.298453 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z"
      style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
-     d="m 38.618853,52.298453 v 0.52917 l 8.403105,4.85138 8.402588,-4.85138 v -0.52917 l -8.402588,4.85139 z" />
+     id="path420-1" />
 </svg>

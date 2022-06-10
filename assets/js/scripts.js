@@ -32,6 +32,11 @@ function moveplayer(pos, player)
 
     console.log("time: "+player);
      $('#team'+player+'pin').removeClass().addClass(tile+'position');
+     $('#team'+player+'mm').removeClass().addClass("mmposition"+pos);
+
+     
+
+
      var teamcolor;
      var teamname;
 
@@ -113,7 +118,7 @@ function changeturn(x)
 
     $('#ui').addClass('showed');
    
-    }, 1000);
+    }, 4000);
 
     
 }
@@ -200,6 +205,7 @@ $(function () {
 
         $('#'+anotherteam+' .btn-selector').removeClass('disabled');
         $('#'+team+'pin svg').removeClass().addClass('fill-'+dataselect);
+        $('#'+team+'mm span').removeClass().addClass('bg-'+dataselect);
         $('#'+anotherteam+' .'+dataselect).addClass('disabled');
 
         
@@ -230,6 +236,14 @@ $(function () {
         var team1pos =  localStorage.getItem('team1pos');
         var team2pos =   localStorage.getItem('team2pos');
         var turn =  localStorage.getItem('turn');
+
+
+
+        $('#team1pin svg').removeClass().addClass('fill-'+team1color);
+        $('#team1mm span').removeClass().addClass('bg-'+team1color);
+
+        $('#team2pin svg').removeClass().addClass('fill-'+team2color);
+        $('#team2mm span').removeClass().addClass('bg-'+team2color);
 
 
         moveplayer(team1pos, 1);

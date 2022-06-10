@@ -1,0 +1,128 @@
+.mmposition0, .mmposition36, .mmposition37,
+.mmposition38, .mmposition39, .mmposition40,
+.mmposition41, .mmposition42, .mmposition43,
+.mmposition44, .mmposition45, .mmposition46,
+.mmposition47
+{
+	
+    bottom: -7px;
+}
+
+.mmposition0, .mmposition1, .mmposition2,
+.mmposition3, .mmposition4, .mmposition5,
+.mmposition6, .mmposition7, .mmposition8,
+.mmposition9, .mmposition10, .mmposition11,
+.mmposition12
+{
+	left: -3px;
+}
+.mmposition12, .mmposition13, .mmposition14,
+.mmposition15, .mmposition16, .mmposition17,
+.mmposition18, .mmposition19, .mmposition20,
+.mmposition21, .mmposition22, .mmposition23,
+.mmposition24
+{
+bottom: calc(100% - 3px);
+}
+
+
+.mmposition24, .mmposition25, .mmposition26,
+.mmposition27, .mmposition28, .mmposition29,
+.mmposition30, .mmposition31, .mmposition32,
+.mmposition33, .mmposition34, .mmposition35,
+.mmposition36
+{
+	left: calc(100% - 3px);
+}
+
+.mmposition1, .mmposition35
+{
+	bottom: calc(7.7% - 3px);
+}
+.mmposition2, .mmposition34
+{
+	bottom: calc(15.4% - 3px);
+}
+.mmposition3, .mmposition33
+{
+	bottom: calc(23.1% - 3px);
+}
+.mmposition4, .mmposition32
+{
+	bottom: calc(30.7% - 3px);
+}
+.mmposition5, .mmposition31
+{
+	bottom: calc(38.45% - 3px);
+}
+.mmposition6, .mmposition30
+{
+	bottom: calc(46.14% - 3px);
+}
+.mmposition7, .mmposition29
+{
+	bottom: calc(53.8% - 3px);
+}
+.mmposition8, .mmposition28
+{
+	bottom: calc(61.5% - 3px);
+}
+.mmposition9, .mmposition27
+{
+	bottom: calc(69.2% - 3px);
+}
+.mmposition10, .mmposition26
+{
+	bottom: calc(76.9% - 3px);
+}
+.mmposition11, .mmposition25
+{
+	bottom: calc(84.6% - 3px);
+}
+
+.mmposition13, .mmposition47
+{
+	left:calc(7.7% - 3px);
+}
+.mmposition14, .mmposition46
+{
+	left:calc(15.4% - 3px);
+}
+.mmposition15, .mmposition45
+{
+	left:calc(23.1% - 3px);
+}
+.mmposition16, .mmposition44
+{
+	left:calc(30.7% - 3px);
+}
+.mmposition17, .mmposition43
+{
+	left:calc(38.45% - 3px);
+}
+.mmposition18, .mmposition42
+{
+	left:calc(46.14% - 3px);
+}
+.mmposition19, .mmposition41
+{
+	left:calc(53.8% - 3px);
+}
+.mmposition20, .mmposition40
+{
+	left:calc(61.5% - 3px);
+}
+.mmposition21, .mmposition39
+{
+	left:calc(69.2% - 3px);
+}
+.mmposition22, .mmposition38
+{
+	left:calc(76.9% - 3px);
+}
+.mmposition23, .mmposition37
+{
+	left:calc(84.6% - 3px);
+}
+
+
