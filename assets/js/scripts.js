@@ -65,6 +65,8 @@ function moveplayer(pos, player)
         $('section').addClass('hidedsection').removeClass('displayedsection');
         $('#victory').removeClass('hidedsection').addClass('displayedsection');
        
+        $(".sound_won").trigger('play');
+
         }, 500);
 
 
@@ -111,13 +113,19 @@ function changeturn(x)
 
     $('#ui').addClass('showed');
    
-    }, 2000);
+    }, 1000);
 
     
 }
 
 
 $(function () {
+
+    $(".sound_10s").trigger('load');
+    $(".sound_drag").trigger('load');
+    $(".sound_spin").trigger('load');
+    $(".sound_start").trigger('load');
+    $(".sound_won").trigger('load');
 
     var continuar = localStorage.getItem('continuegame');
 
@@ -276,7 +284,7 @@ $(function () {
         let x = Math.floor((Math.random() * 2) + 1);
 
         $('.randroulletpin').addClass('rotate'+x);
-
+        $(".sound_spin").trigger('play');
       
 
         
@@ -296,7 +304,7 @@ var turnname, turncolor;
         setTimeout(function() { 
             $('.teamwon').slideDown();
 
-        }, 1500);
+        }, 4000);
 
 
     });
@@ -306,6 +314,7 @@ var turnname, turncolor;
         $('#ui').removeClass();
         $('#showroleta').removeClass().show();
         $('#roletaboxparent').show();
+        $(".sound_spin").trigger('play');
         $('#qrcodearea, #counterarea, #resultarea').hide();
 
       
@@ -406,7 +415,7 @@ var turnname, turncolor;
                 $('#resultext').html(randomValue);
 
 
-             }, 1000);
+             }, 4000);
     });
    
   
@@ -423,12 +432,23 @@ var turnname, turncolor;
         setTimeout(function() { 
             $('#resultarea').slideDown();
          }, 500);
+         clearInterval(contagem);
          localStorage.setItem('moveplayer', 1);
+
+
+         $(".sound_10s").trigger('pause').prop("currentTime",0);
+
+    
     
     });
     
 
     $('#errou').on('click', function (e) {
+        $(".sound_10s").trigger('pause').prop("currentTime",0);
+
+
+        
+        clearInterval(contagem);
         $('#counterarea').slideUp();
         localStorage.setItem('moveplayer', 0);
         setTimeout(function() { 
@@ -443,16 +463,23 @@ var turnname, turncolor;
     $('#fazermimica').on('click', function (e) { 
         $('#qrcodearea').slideUp();
      
-        var contador = 60;
-        $('#secondscount').html(contador);
+        $(".sound_start").trigger('play');
+        $('#counterarea h2').hide();
+        $('#botoes').hide();
+
+        $('#secondscount').html('5<br><small>PREPARAR!</small>');
+        var contador = 65;
+        
         $('#plural').html('s');
   contagem = setInterval(function(){ 
             contador = contador-1;
 
-            if (contador == 10)
+            
+            
+            if (contador == 11)
             {
             
-               // $(".my_audio").trigger('play');
+                $(".sound_10s").trigger('play');
             }
 
             if(contador < 2)
@@ -464,8 +491,23 @@ var turnname, turncolor;
                 clearInterval(contagem);
             }
 
+            
 
-            $('#secondscount').html(contador);
+            
+
+            if(contador > 60)
+            {
+                var contadorn = contador - 60;
+                $('#counterarea h2').hide();
+
+                $('#secondscount').html(contadorn+'<br><small>PREPARAR!</small>');
+            }else
+            {
+                $('#secondscount').html(contador);
+                $('#counterarea h2').show();
+                $('#botoes').show();
+            }
+
          }, 1000);
 
         setTimeout(function() { 
@@ -532,7 +574,7 @@ var turnname, turncolor;
                 jaachou = 1;
                }
           }
-          
+          $(".sound_drag").trigger('play');
 
           moveplayer(nexttile, x);
          

@@ -220,7 +220,7 @@ html {
 	margin: 0 !important;
 	list-style: none !important;
 	position: relative;
-	transition: all 1s 0s ease;
+	transition: all 4s 0s ease;
 	top:0;
 
 }
@@ -344,19 +344,19 @@ html {
 .rotate1
 {
 	animation-name: spin1;
-	animation-duration: 1000ms;
+	animation-duration: 4000ms;
 	animation-iteration-count: 1;
 	animation-timing-function: ease-out;
-  transform:rotate(990deg);
+  transform:rotate(1710deg);
 }
 
 .rotate2
 {
 	animation-name: spin2;
-	animation-duration: 1000ms;
+	animation-duration: 4000ms;
 	animation-iteration-count: 1;
 	animation-timing-function: ease-out;
-  	transform:rotate(810deg);
+  	transform:rotate(1530deg);
 }
 
 .boardpage
@@ -439,7 +439,7 @@ html {
 .gamerotate0 #roletapin
 {
 	animation-name: roda0;
-	animation-duration: 1000ms;
+	animation-duration: 4000ms;
 	animation-iteration-count: 1;
 	animation-timing-function: ease-out;
   transform:rotate(720deg);
@@ -447,7 +447,7 @@ html {
 .gamerotate1 #roletapin
 {
 	animation-name: roda1;
-	animation-duration: 1000ms;
+	animation-duration: 4000ms;
 	animation-iteration-count: 1;
 	animation-timing-function: ease-out;
   transform:rotate(780deg);
@@ -455,7 +455,7 @@ html {
 .gamerotate2 #roletapin
 {
 	animation-name: roda2;
-	animation-duration: 1000ms;
+	animation-duration: 4000ms;
 	animation-iteration-count: 1;
 	animation-timing-function: ease-out;
   transform:rotate(840deg);
@@ -463,7 +463,7 @@ html {
 .gamerotate3 #roletapin
 {
 	animation-name: roda3;
-	animation-duration: 1000ms;
+	animation-duration: 4000ms;
 	animation-iteration-count: 1;
 	animation-timing-function: ease-out;
   transform:rotate(900deg);
@@ -471,7 +471,7 @@ html {
 .gamerotate4 #roletapin
 {
 	animation-name: roda4;
-	animation-duration: 1000ms;
+	animation-duration: 4000ms;
 	animation-iteration-count: 1;
 	animation-timing-function: ease-out;
   transform:rotate(960deg);
@@ -479,7 +479,7 @@ html {
 .gamerotate5 #roletapin
 {
 	animation-name: roda5;
-	animation-duration: 1000ms;
+	animation-duration: 4000ms;
 	animation-iteration-count: 1;
 	animation-timing-function: ease-out;
   transform:rotate(1020deg);
@@ -541,7 +541,7 @@ html {
         transform:rotate(0deg);
     }
     to {
-        transform:rotate(990deg);
+        transform:rotate(1710deg);
     }
 }
 @keyframes spin2 {
@@ -550,6 +550,6 @@ html {
     }
   
     to {
-        transform:rotate(810deg);
+        transform:rotate(1530deg);
     }
 }
