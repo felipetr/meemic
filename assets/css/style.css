@@ -11,8 +11,43 @@ html {
 }
 .modal-content, .boxcontencolor
 {
-	background: rgba(6,8,24,.9);
+	background: rgba(6,8,24,.9) !important;
+	
 
+}
+
+.form-control
+{
+	background: rgba(0,0,0,.5) !important;
+	color: #fff !important;
+	border: none !important;
+}
+
+
+.btn-selector
+{
+	background: rgba(0,0,0,.5) !important;
+	cursor: pointer !important;
+	border-radius: 17px;
+}
+.btn-selector:hover
+{
+	background: rgba(255,255,255,.5) !important;
+}
+.btn-selector.selected,
+.btn-selector.selected:hover
+{
+	background: rgba(255,255,255,1) !important;
+}
+.btn-selector.disabled, .btn-selector.disabled:hover
+{
+	background: rgba(0,0,0,.5) !important;
+	cursor: not-allowed !important;
+	opacity: .3;
+}
+.boxcontencolor
+{
+	border-radius: 4px;
 }
 .close {
     color: #fff !important;
@@ -23,6 +58,10 @@ html {
 .displayedsection
 {
 	 height: 100%;
+}
+.cursorpointer
+{
+	cursor: pointer;
 }
 .hidedsection
 {
@@ -62,11 +101,11 @@ html {
 	 color: #fff !important;
 	 
  }
-.btn
+.btn, .form-control
 {
 	border-radius: 18px;
 }
- .btn-lg
+ .btn-lg, .form-control-lg
 
  {
 	border-radius: 24px;
@@ -77,3 +116,440 @@ html {
 	  color: #3d2575 !important;
  }
  
+
+ .fill-yellow  .corpin {
+    fill: #ffc107!important;
+	stroke: #b38705 !important;
+}
+.fill-blue  .corpin {
+    fill: #007bff!important;
+    stroke: #0056b3!important;
+}
+.fill-green  .corpin {
+    fill: #28a745!important;
+    stroke: #1c7530!important;
+}
+.fill-red  .corpin {
+    fill: #dc3545!important;
+    stroke: #9a2530!important;
+}
+.fill-purple  .corpin {
+    fill: #7952b3!important;
+    stroke: #553a7e!important;
+}
+.fill-white  .corpin {
+    fill: #f8f9fa!important;
+    stroke: #aeafaf!important;
+}
+
+
+.bg-yellow   {
+    background: #ffc107!important;
+}
+.bg-blue   {
+    background: #007bff!important;
+}
+.bg-green   {
+    background: #28a745!important;
+}
+.bg-red   {
+    background: #dc3545!important;
+}
+.bg-purple  {
+    background: #7952b3!important;
+}
+.bg-white  {
+    background: #f8f9fa!important;
+}
+
+.text-yellow   {
+    color: #ffc107!important;
+}
+.text-blue   {
+    color: #007bff!important;
+}
+.text-green   {
+    color: #28a745!important;
+}
+.text-red   {
+    color: #dc3545!important;
+}
+.text-purple  {
+    color: #7952b3!important;
+}
+.text-white  {
+    color: #f8f9fa!important;
+}
+#ui
+{
+	position: fixed;
+    right: 15px;
+    left: 15px;
+    bottom: -100%;
+    z-index: 55555;
+	transition: all 0.5s 0s ease;
+	
+}
+#ui.showed
+{
+	bottom: 15px;
+}
+#roletajogo
+{
+	position: fixed;
+    right: 15px;
+    top: 15px;
+    bottom: 15px;
+    left: 15px;
+    z-index: 555555;
+
+}
+#namesrandbox
+{
+	margin: 10px 0 !important;
+	width: 400px;
+	height: 42px;
+	border-radius: 21px;
+	display: inline-block;
+	overflow: hidden !important;
+	position: relative;
+}
+#namesrand
+{
+	padding: 0 !important;
+	margin: 0 !important;
+	list-style: none !important;
+	position: relative;
+	transition: all 1s 0s ease;
+	top:0;
+
+}
+.gamerotate0 #namesrand
+{
+	top: -504px;
+}
+.border-none
+{
+	border: none !important;
+}
+#qrcodeCanvas
+{
+	padding: 30px;
+	width: 360px;
+	display: inline-block;
+	border-radius: 15px;
+	background: #fff;
+}
+.gamerotate1 #namesrand
+{
+	top: -546px;
+}
+#secondscount
+{
+	font-size: 82px;
+    margin-bottom: -22px;
+}
+
+.gamerotate2 #namesrand
+{
+	top: -588px;
+}
+
+.gamerotate3 #namesrand
+{
+	top: -630px;
+}
+
+.gamerotate4 #namesrand
+{
+	top: -672px;
+}
+
+.gamerotate5 #namesrand
+{
+	top: -714px;
+}
+
+#namesrand li
+{
+	font-size: 25px;
+    line-height: 40px;
+    padding-top: 2px;
+}
+#roletabox
+{
+	position: relative;
+}
+#roleta
+{
+	position: relative;
+	width: 400px;
+}
+
+#roletapin
+{
+	width: 60px;
+	position: absolute;
+	left: calc(50% - 30px);
+	top: calc(50% - 50px);
+	z-index: 5;
+}
+#roletapinshadow
+{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	left: calc(50% - 20px);
+	top: calc(50% - 20px);
+	border-radius: 50px;
+	background: rgba(0,0,0,.3);
+}
+
+
+#randroulette1, #randroulette2
+{
+	width: 150px;
+	height: 300px;
+	margin: -3px;
+	position: relative;
+	display: inline-block;
+}
+#randroulette1
+{
+	border-radius: 150px 0 0 150px!important;
+}
+
+#randroulette2
+{
+	border-radius: 0 150px 150px 0!important;
+}
+.randroulletpin
+{
+	width: 60px;
+	position: absolute;
+	left: calc(50% - 30px);
+	top: calc(50% - 50px);
+}
+.randroulletpinshadow
+{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	left: calc(50% - 20px);
+	top: calc(50% - 20px);
+	border-radius: 50px;
+	background: rgba(0,0,0,.3);
+}
+
+.rotate1
+{
+	animation-name: spin1;
+	animation-duration: 1000ms;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-out;
+  transform:rotate(990deg);
+}
+
+.rotate2
+{
+	animation-name: spin2;
+	animation-duration: 1000ms;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-out;
+  	transform:rotate(810deg);
+}
+
+.boardpage
+{
+	overflow: hidden !important;
+	position: relative;
+}
+#boardpagemove
+{
+	position: absolute;
+	width: 300%;
+	transition: all 0.5s 0s ease;
+	top: -91%;
+    left: 33.5%;
+}
+
+#team1pin, #team2pin
+{
+	top: 45.5%;
+    left: 3.2%;	
+	position: absolute;
+	z-index: 888;
+	transition: all 0.5s 0s ease;
+	width: 2%;
+}
+#team2pin
+{
+	z-index: 889;
+	margin-left: 2.5%;
+}
+
+
+#team1pin .corpin, #team2pin .corpin
+{
+	stroke-width: 1 !important;
+}
+.text-opacity
+{
+	color:rgba(0,0,0,.7) !important; font-weight: 700;
+}
+
+.btn-yellow   {
+    background: #ffc107!important; color:rgba(0,0,0,.7) !important; font-weight: 700;
+}
+.btn-blue   {
+    background: #007bff!important; color:rgba(0,0,0,.7) !important; font-weight: 700;
+}
+.btn-green   {
+    background: #28a745!important; color:rgba(0,0,0,.7) !important; font-weight: 700;
+}
+.btn-red   {
+    background: #dc3545!important; color:rgba(0,0,0,.7) !important; font-weight: 700;
+}
+.btn-purple  {
+    background: #7952b3!important; color:rgba(0,0,0,.7) !important; font-weight: 700;
+}
+.btn-white  {
+    background: #f8f9fa!important; color:rgba(0,0,0,.7) !important; font-weight: 700;
+}
+
+.btn-yellow:hover  {
+    background: #ffc107!important;
+}
+.btn-blue:hover   {
+    background: #007bff!important; 
+}
+.btn-green:hover   {
+    background: #28a745!important; 
+}
+.btn-red:hover   {
+    background: #dc3545!important; 
+}
+.btn-purple:hover  {
+    background: #7952b3!important;
+}
+.btn-white:hover  {
+    background: #f8f9fa!important;
+}
+
+.gamerotate0 #roletapin
+{
+	animation-name: roda0;
+	animation-duration: 1000ms;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-out;
+  transform:rotate(720deg);
+}
+.gamerotate1 #roletapin
+{
+	animation-name: roda1;
+	animation-duration: 1000ms;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-out;
+  transform:rotate(780deg);
+}
+.gamerotate2 #roletapin
+{
+	animation-name: roda2;
+	animation-duration: 1000ms;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-out;
+  transform:rotate(840deg);
+}
+.gamerotate3 #roletapin
+{
+	animation-name: roda3;
+	animation-duration: 1000ms;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-out;
+  transform:rotate(900deg);
+}
+.gamerotate4 #roletapin
+{
+	animation-name: roda4;
+	animation-duration: 1000ms;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-out;
+  transform:rotate(960deg);
+}
+.gamerotate5 #roletapin
+{
+	animation-name: roda5;
+	animation-duration: 1000ms;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-out;
+  transform:rotate(1020deg);
+}
+
+@keyframes roda0 {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(720deg);
+    }
+}
+
+@keyframes roda1 {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(780deg);
+    }
+}
+@keyframes roda2 {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(840deg);
+    }
+}
+@keyframes roda3 {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(900deg);
+    }
+}
+
+@keyframes roda4 {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(960deg);
+    }
+}
+@keyframes roda5 {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(1020deg);
+    }
+}
+
+@keyframes spin1 {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(990deg);
+    }
+}
+@keyframes spin2 {
+    from {
+        transform:rotate(0deg);
+    }
+  
+    to {
+        transform:rotate(810deg);
+    }
+}

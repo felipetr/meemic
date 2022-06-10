@@ -1,0 +1,259 @@
+.startposition
+{
+	top: 45.5% !important;
+    left: 3.2% !important;
+	
+}
+/* horizontal */
+.tile12position
+{
+	top: -0.5% !important;
+}
+
+.tile11position, .tile13position
+{
+	top: 3% !important;
+}
+
+
+.tile10position, .tile14position
+{
+	top: 7% !important;
+}
+
+.tile9position, .tile15position
+{
+	top: 11% !important;
+}
+
+
+.tile8position, .tile16position
+{
+	top: 14.5% !important;
+}
+.tile7position, .tile17position
+{
+	top: 18.5% !important;
+}
+.tile6position, .tile18position
+{
+	top: 22.5% !important;
+}
+.tile5position, .tile19position
+{
+	top: 26% !important;
+}
+.tile4position, .tile20position
+{
+	top: 30% !important;
+}
+
+.tile3position, .tile21position
+{
+	top: 34% !important;
+}
+.tile2position, .tile22position
+{
+	top: 38% !important;
+}
+.tile1position, .tile23position
+{
+	top: 42% !important;
+}
+.tile24position
+{
+	top: 45.5% !important;
+}
+.tile25position, .tile47position
+{
+	top: 49.5% !important;
+}
+.tile26position, .tile46position
+{
+	top: 53.5% !important;
+}
+.tile27position, .tile45position
+{
+	top: 57% !important;
+}
+.tile28position, .tile44position
+{
+	top: 61% !important;
+}
+.tile29position, .tile43position
+{
+	top: 65% !important;
+}
+.tile30position, .tile42position
+{
+	top: 69% !important;
+}
+.tile31position, .tile41position
+{
+	top: 73% !important;
+}
+.tile32position, .tile40position
+{
+	top: 77% !important;
+}
+.tile33position, .tile39position
+{
+	top: 81% !important;
+}
+.tile34position, .tile38position
+{
+	top: 84% !important;
+}
+.tile35position, .tile37position
+{
+	top: 88% !important;
+}
+.tile36position
+{
+	top: 91.5% !important;
+}
+
+/* vertical */
+.tile1position, .tile47position
+{
+	
+	left:9% !important;
+
+}
+.tile2position, .tile46position
+{
+	
+	left: 12.5% !important;
+
+}
+.tile3position, .tile45position
+{
+	
+	left: 16% !important;	
+
+}
+.tile4position, .tile44position
+{
+	
+	left: 19.5% !important;
+
+}
+.tile5position, .tile43position
+{
+	
+	left: 23% !important;
+
+}
+.tile6position, .tile42position
+{
+	
+	left: 26.7% !important;
+
+}
+.tile7position, .tile41position
+{
+	
+	left: 30.2%!important;
+
+}
+.tile8position, .tile40position
+{
+	
+	left: 33.7% !important;
+}
+.tile9position, .tile39position
+{
+	
+	left: 37.2% !important;
+
+}
+.tile10position, .tile38position
+{
+	
+	left: 40.9% !important;
+
+}
+.tile11position, .tile37position
+{
+	
+	left: 44.35% !important;
+
+}
+.tile12position, .tile36position
+{
+	
+	left: 47.9% !important;
+
+}
+.tile13position, .tile35position
+{
+	
+	left: 51.3% !important;
+
+}
+.tile14position, .tile34position
+{
+	
+	left: 54.7% !important;
+
+}
+.tile15position, .tile33position
+{
+	
+	left: 58.1% !important;
+
+}
+.tile16position, .tile32position
+{
+	
+	left: 61.9% !important;
+
+}
+.tile17position, .tile31position
+{
+	
+	left: 65.4% !important;
+
+}
+.tile18position, .tile30position
+{
+	
+	left: 69% !important;
+
+}
+.tile19position, .tile29position
+{
+	
+	left: 72.5% !important;
+
+}
+.tile20position, .tile28position
+{
+	
+	left: 76.1% !important;
+
+}
+.tile21position, .tile27position
+{
+	
+	left: 79.7% !important;
+
+}
+.tile22position, .tile26position
+{
+	
+	left: 83.3% !important;
+
+}
+.tile23position, .tile25position
+{
+	
+	left: 86.9% !important;
+
+}
+.tile24position
+{
+	
+	left: 90.2% !important;
+
+}
